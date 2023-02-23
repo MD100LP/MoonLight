@@ -1,0 +1,114 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Anillos para Damas",
+            "price": 55,
+            "image": "assets/img/Moon/IMG_4238.PNG",
+            "category": "anillos"
+            
+            
+        },
+        {
+            "id": 2,
+            "title": "Anillos para Mujeres",
+            "price": 45,
+            "image": "assets/img/Moon/IMG_4239.PNG",
+            "category": "anillos"
+        },
+        {
+            "id": 3,
+            "title": "Cadena con Inicial",
+            "price": 75,
+            "image": "assets/img/Moon/IMG_4240.PNG",
+            
+            "category": "anillos"
+        },
+        {
+            "id": 3,
+            "title": "Anillos para Damas",
+            "price": 95,
+            "image": "assets/img/Anillos/AA1.PNG",
+            
+            "category": "anillos"
+        },
+        {
+            "id": 4,
+            "title": "Anillos para Damas",
+            "price": 95,
+            "image": "assets/img/Anillos/AA2.PNG",
+            
+            "category": "anillos"
+        },
+        {
+            "id": 5,
+            "title": "Anillos para Damas",
+            "price": 95,
+            "image": "assets/img/Anillos/AA3.PNG",
+            
+            "category": "anillos"
+        },
+        {
+            "id": 6,
+            "title": "Cadena con Inicial",
+            "price": 95,
+            "image": "assets/img/Moon/CadenaInicial.PNG",
+            
+            "category": "cadenas"
+        },
+        {
+            "id": 7,
+            "title": "Playera UNVST",
+            "price": 95,
+            "image": "assets/img/Moon/Badbo/PlayeraBadAmarillas.PNG",
+            
+            "category": "Badbo"
+        },
+        {
+            "id": 8,
+            "title": "Playera UNVST",
+            "price": 95,
+            "image": "assets/img/Moon/Badbo/PlayeraBadRoja.PNG",
+            
+            "category": "Badbo"
+        },
+        {
+            "id": 9,
+            "title": "Aretes",
+            "price": 50,
+            "image": "assets/img/Aretes/AR1.PNG",
+            
+            "category": "aretes"
+        },
+        {
+            "id": 10,
+            "title": "Aretes para Dama",
+            "price": 95,
+            "image": "assets/img/Aretes/AR2.PNG",
+            
+            "category": "aretes"
+        },
+        {
+            "id": 11,
+            "title": "Aretes para Dama",
+            "price": 95,
+            "image": "assets/img/Aretes/AR3.PNG",
+            
+            "category": "aretes"
+        },
+        {
+            "id": 12,
+            "title": "Piercing Unisex",
+            "price": 95,
+            "image": "assets/img/Piercing/P1.PNG",
+            
+            "category": "piercings"
+        }
+        
+        
+            
+      
+        
+    ]
+}
+
